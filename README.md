@@ -33,6 +33,8 @@ Fantastic Blog is PHP Content Management System project. This is an absolutely f
 	<li>and <strong>many more</strong></li>
 </ul>
 
+<div align="center"><img src="fantasticblog.png" /></div>
+
 Visit [www.sourcecodester.com](https://www.sourcecodester.com/php/12258/fantastic-blog-cms-php.html) for more detailed information and instruction for running the Fantastic Blog.
 
 ### Website Info
