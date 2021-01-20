@@ -1,5 +1,9 @@
 # Fantastic Blog (CMS) in PHP with Source Code
 
+<div align="center">
+	<img src="blogadmin.png" />
+</div>
+
 ### Description
 Fantastic Blog is PHP Content Management System project. This is an absolutely fantastic web content management system for blogs/articles. It enables you to easily manage your website or blog without much hustle. With this system, you will run your blog like a boss. It provides you a wide range of capabilities to customize your blog to fit your needs. It has great features and you don't have to touch any code to have your blog up and running.
 
